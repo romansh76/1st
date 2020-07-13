@@ -1,0 +1,27 @@
+var struct___u_s_b_d___handle_type_def =
+[
+    [ "ConfIdx", "struct___u_s_b_d___handle_type_def.html#a024981f1d4dc95017dcf81b28cdca8a3", null ],
+    [ "dev_address", "struct___u_s_b_d___handle_type_def.html#ac3d3db8dc0855c423e23107db66343ee", null ],
+    [ "dev_config", "struct___u_s_b_d___handle_type_def.html#a3fcae06c2c0b8dfdb1db931cf1a4be56", null ],
+    [ "dev_config_status", "struct___u_s_b_d___handle_type_def.html#aa1079773093b2608bac7eaf63bbaf69f", null ],
+    [ "dev_connection_status", "struct___u_s_b_d___handle_type_def.html#aff7da2b1b8d7ff8200987116e4c282e0", null ],
+    [ "dev_default_config", "struct___u_s_b_d___handle_type_def.html#a3610cd01764a1cdf5e16e9216fe73a88", null ],
+    [ "dev_old_state", "struct___u_s_b_d___handle_type_def.html#a396fb865dacd7d9e9b82b4200ed2e0e9", null ],
+    [ "dev_remote_wakeup", "struct___u_s_b_d___handle_type_def.html#abebe8f6cfbce2c35857de1ffc5d3ef84", null ],
+    [ "dev_speed", "struct___u_s_b_d___handle_type_def.html#af05af4e4045fb40caa4ac12d60c04cb2", null ],
+    [ "dev_state", "struct___u_s_b_d___handle_type_def.html#ac16cbddeabf8b3a3c5c73747d179d441", null ],
+    [ "dev_test_mode", "struct___u_s_b_d___handle_type_def.html#afac9640f1ff1fd1f8663b5793bb18a32", null ],
+    [ "ep0_data_len", "struct___u_s_b_d___handle_type_def.html#a970d5cabc332f92d40e77197792794e7", null ],
+    [ "ep0_state", "struct___u_s_b_d___handle_type_def.html#abec88ae821fd6ef7dd09ab3c2ee36638", null ],
+    [ "ep_in", "struct___u_s_b_d___handle_type_def.html#a4274d52d9287db59aa87d1e31e0e7e47", null ],
+    [ "ep_out", "struct___u_s_b_d___handle_type_def.html#a1cdfed3112c9a40bf8e432a1b94fe9ef", null ],
+    [ "id", "struct___u_s_b_d___handle_type_def.html#a1e6927fa1486224044e568f9c370519b", null ],
+    [ "pBosDesc", "struct___u_s_b_d___handle_type_def.html#a714e5b52b1cf010d2ec72dc6ceeda2d5", null ],
+    [ "pClass", "struct___u_s_b_d___handle_type_def.html#aed33ecfac9022b201e55b95a1b7e5341", null ],
+    [ "pClassData", "struct___u_s_b_d___handle_type_def.html#a8e5b83148c3cb343113947c7655dd7df", null ],
+    [ "pConfDesc", "struct___u_s_b_d___handle_type_def.html#af50e3332f9c930a5dc8bfbc7e603d896", null ],
+    [ "pData", "struct___u_s_b_d___handle_type_def.html#aa92f08987c51e4eb7b92e84944ca2af3", null ],
+    [ "pDesc", "struct___u_s_b_d___handle_type_def.html#a7ea3b83f920f5193c33fe62b3db394bd", null ],
+    [ "pUserData", "struct___u_s_b_d___handle_type_def.html#a8d75dbe9027a94780bc2f31670400613", null ],
+    [ "request", "struct___u_s_b_d___handle_type_def.html#a09d13105dd91665d0f55c9f71ffc3802", null ]
+];
